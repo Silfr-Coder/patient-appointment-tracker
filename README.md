@@ -16,9 +16,9 @@ processes in a healthcare setting.
 - SQL (SELECT, INSERT)
 
 ## Background
-Built as part of my healthtech portfolio, combining 19 years 
+Built as part of my ongoing healthtech portfolio, combining 19 years 
 of clinical nursing experience with software development skills 
 to create tools relevant to healthcare environments.
 
 ## Live App
-[View the app](paste your Retool published URL here)
+[View the app](https://penmanorg.retool.com/apps/3df03d3e-301a-11f1-8fc0-3bc5fb5cfd44/(2320001)%20Paul%20Penman's%20Drafts/Patient%20Appointment%20Tracker/page1)
