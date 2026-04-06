@@ -23,6 +23,8 @@ to create tools relevant to healthcare environments.
 ## Live App
 [View the app](https://penmanorg.retool.com/apps/3df03d3e-301a-11f1-8fc0-3bc5fb5cfd44/(2320001)%20Paul%20Penman's%20Drafts/Patient%20Appointment%20Tracker/page1)
 
-# Screenshots
-![App Screenshot1](![appointments_app01](https://github.com/user-attachments/assets/613a75bf-d325-48d9-8bec-f854733f5204)
-)
+## Screenshots
+![appointments_app01](https://github.com/user-attachments/assets/630683cd-615b-466a-963d-8c9e17ff0be8)
+
+![appointments_app01](https://github.com/user-attachments/assets/613a75bf-d325-48d9-8bec-f854733f5204)
+
